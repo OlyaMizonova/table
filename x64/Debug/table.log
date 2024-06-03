@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\study\yaziki_i_metodi\git_labs\table\main.cpp(65,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  table.vcxproj -> D:\study\yaziki_i_metodi\git_labs\table\x64\Debug\table.exe
